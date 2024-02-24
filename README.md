@@ -30,6 +30,7 @@ Agora vamos aguardar e atualizar, e depois de inseridos selecionamos os dados e 
   - Tempo limite de iteração (minutos): 15
   - Marcar caixinha de "Habilitar encerramento antecipado"
   - Tipo de validação: Divisão de validação de treinamento
+  
 Clica em avançar.
 
 Na parte de Computação pode deixar padrão e clicar em avançar.
